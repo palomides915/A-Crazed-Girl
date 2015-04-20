@@ -1,7 +1,8 @@
+# *A Crazed Girl* 
 That crazed girl improvising her music.
 Her poetry, dancing upon the shore,
 
-Her soul in division from itself
+Her _soul_ in division from itself
 Climbing, falling She knew not where,
 Hiding amid the cargo of a steamship,
 Her knee-cap broken, that girl I declare
@@ -13,4 +14,4 @@ She stood in desperate music wound,
 Wound, wound, and she made in her triumph
 Where the bales and the baskets lay
 No common intelligible sound
-But sang, "O sea-starved, hungry sea.'
+But sang, **"O sea-starved, hungry sea.'**
